@@ -1,0 +1,6 @@
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\bin\Debug\SandwichLibrary.dll
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\bin\Debug\SandwichLibrary.pdb
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\obj\Debug\SandwichLibrary.OrderPage.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\obj\Debug\SandwichLibrary.csproj.GenerateResource.Cache
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\obj\Debug\SandwichLibrary.dll
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\SandwichLibrary\SandwichLibrary\obj\Debug\SandwichLibrary.pdb

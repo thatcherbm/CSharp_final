@@ -1,0 +1,14 @@
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\bin\Debug\ElevatedTrackSandwiches.exe
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\bin\Debug\ElevatedTrackSandwiches.pdb
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\bin\Debug\SandwichLibrary.dll
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\bin\Debug\SandwichLibrary.pdb
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.Properties.Resources.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.Welcome.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.csproj.GenerateResource.Cache
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.exe
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.pdb
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.OrderPageBMC.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.OrderPageVS.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.csprojResolveAssemblyReference.cache
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.OrderPagePay.resources
+E:\ITEC 2877 Visual C#\Mod 6 Final Project 20hrs\ElevatedTrackSandwiches\ElevatedTrackSandwiches\obj\x86\Debug\ElevatedTrackSandwiches.OrderPageInventory.resources
